@@ -1,0 +1,5 @@
+ip = localhost
+puerto = 3306
+db = 
+usuario = root
+password = 
